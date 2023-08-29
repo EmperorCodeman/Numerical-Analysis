@@ -1,0 +1,205 @@
+
+                        Problem 1 (a)
+                        Algorithm: Jacobi
+
+        Iteration: 1
+Error: 1.8333333333333333
+Estimated Roots: [2.33333333 1.83333333 4.42857143]
+
+        Iteration: 2
+Error: 1.3571428571428568
+Estimated Roots: [1.86507937 2.64285714 5.78571429]
+
+        Iteration: 3
+Error: 0.21825396825396837
+Estimated Roots: [2.04761905 2.86111111 5.93197279]
+
+        Iteration: 4
+Error: 0.17176870748299322
+Estimated Roots: [2.02362056 3.00113379 6.1037415 ]
+
+        Iteration: 5
+Error: 0.0497246517654677
+Estimated Roots: [2.03420257 3.04639078 6.15346615]
+
+        Iteration: 6
+Error: 0.02393100097181744
+Estimated Roots: [2.03569179 3.06825667 6.17739715]
+
+        Iteration: 7
+Error: 0.010009332531199178
+Estimated Roots: [2.03638016 3.07697828 6.18740648]
+
+        Iteration: 8
+Error: 0.004032848967250757
+Estimated Roots: [2.0368094  3.08065891 6.19143933]
+
+
+
+
+                        Problem 1 (c)
+                        Algorithm: Jacobi
+
+        Iteration: 1
+Error: 12.5
+Estimated Roots: [ 18.5    32.4   -22.125  -8.8  ]
+
+        Iteration: 2
+Error: 10.700000000000003
+Estimated Roots: [ 22.2    43.1   -26.1    -6.575]
+
+        Iteration: 3
+Error: 5.628125000000001
+Estimated Roots: [ 27.55      46.54     -31.728125  -5.78    ]
+
+        Iteration: 4
+Error: 4.926250000000003
+Estimated Roots: [ 29.27      51.46625  -33.5475    -4.654375]
+
+        Iteration: 5
+Error: 2.603828125000007
+Estimated Roots: [ 31.733125    53.054      -36.15132813  -4.2905    ]
+
+        Iteration: 6
+Error: 2.273093750000001
+Estimated Roots: [ 32.527       55.32709375 -36.9906875   -3.76973437]
+
+        Iteration: 7
+Error: 1.2016425781250035
+Estimated Roots: [ 33.66354688  56.059775   -38.19233008  -3.6018625 ]
+
+        Iteration: 8
+Error: 1.048930468750001
+Estimated Roots: [ 34.0298875   57.10870547 -38.57965469  -3.36153398]
+
+        Iteration: 9
+Error: 0.5545062988281302
+Estimated Roots: [ 34.55435273  57.44680562 -39.13416099  -3.28406906]
+
+        Iteration: 10
+Error: 0.4840351367187594
+Estimated Roots: [ 34.72340281  57.93084076 -39.31289418  -3.1731678 ]
+
+        Iteration: 11
+Error: 0.25588022583008296
+Estimated Roots: [ 34.96542038  58.08685908 -39.56877441  -3.13742116]
+
+        Iteration: 12
+Error: 0.2233608745117195
+Estimated Roots: [ 35.04342954  58.31021995 -39.65125189  -3.08624512]
+
+        Iteration: 13
+Error: 0.11807744290161537
+Estimated Roots: [ 35.15510998  58.38221553 -39.76932934  -3.06974962]
+
+        Iteration: 14
+Error: 0.10307119578857282
+Estimated Roots: [ 35.19110776  58.48528672 -39.80738906  -3.04613413]
+
+        Iteration: 15
+Error: 0.05448753396682804
+Estimated Roots: [ 35.24264336  58.51850951 -39.86187659  -3.03852219]
+
+        Iteration: 16
+Error: 0.04756281253387584
+Estimated Roots: [ 35.25925475  58.56607232 -39.87943948  -3.02762468]
+
+        Iteration: 17
+Error: 0.025143594616103826
+Estimated Roots: [ 35.28303616  58.58140317 -39.90458307  -3.0241121 ]
+
+        Iteration: 18
+Error: 0.021948140979908715
+Estimated Roots: [ 35.29070158  58.60335131 -39.91268757  -3.01908339]
+
+        Iteration: 19
+Error: 0.011602660355364947
+Estimated Roots: [ 35.30167565  58.61042582 -39.92429023  -3.01746249]
+
+        Iteration: 20
+Error: 0.010128099387124223
+Estimated Roots: [ 35.30521291  58.62055392 -39.9280301   -3.01514195]
+
+        Iteration: 21
+Error: 0.005354116202447301
+Estimated Roots: [ 35.31027696  58.62381849 -39.93338422  -3.01439398]
+
+
+
+
+                        Problem 1 (a)
+                        Algorithm: Gauss-Seidel
+
+        Iteration: 1
+Error: 2.5
+Estimated Roots: [2.33333333 2.5        6.07142857]
+
+        Iteration: 2
+Error: 0.6190476190476191
+Estimated Roots: [2.19047619 3.11904762 6.2755102 ]
+
+        Iteration: 3
+Error: 0.13832199546485313
+Estimated Roots: [2.0521542  3.11791383 6.21574344]
+
+        Iteration: 4
+Error: 0.02969441744951906
+Estimated Roots: [2.03260987 3.08821941 6.19464112]
+
+        Iteration: 5
+Error: 0.005602089664285881
+Estimated Roots: [2.0354739  3.08261733 6.19346767]
+
+
+
+
+                        Problem 1 (c)
+                        Algorithm: Gauss-Seidel
+
+        Iteration: 1
+Error: 17.95
+Estimated Roots: [ 18.5   38.65 -28.95  -5.21]
+
+        Iteration: 2
+Error: 10.592500000000001
+Estimated Roots: [ 25.325   49.2425 -34.97    -4.006 ]
+
+        Iteration: 3
+Error: 5.296250000000001
+Estimated Roots: [ 30.62125    54.298625  -37.6485625  -3.4702875]
+
+        Iteration: 4
+Error: 2.5280625000000008
+Estimated Roots: [ 33.1493125   56.63408125 -38.88325469  -3.22334906]
+
+        Iteration: 5
+Error: 1.1677281250000036
+Estimated Roots: [ 34.31704063  57.71182219 -39.45299246  -3.10940151]
+
+        Iteration: 6
+Error: 0.5388704687499981
+Estimated Roots: [ 34.85591109  58.20915253 -39.71590108  -3.05681978]
+
+        Iteration: 7
+Error: 0.24866517187499682
+Estimated Roots: [ 35.10457627  58.43864856 -39.83722181  -3.03255564]
+
+        Iteration: 8
+Error: 0.11474801621093889
+Estimated Roots: [ 35.21932428  58.54455086 -39.89320598  -3.0213588 ]
+
+        Iteration: 9
+Error: 0.052951150375974976
+Estimated Roots: [ 35.27227543  58.59342011 -39.9190402   -3.01619196]
+
+        Iteration: 10
+Error: 0.024434621327273476
+Estimated Roots: [ 35.29671005  58.61597111 -39.93096156  -3.01380769]
+
+        Iteration: 11
+Error: 0.011275500440603992
+Estimated Roots: [ 35.30798555  58.6263774  -39.93646274  -3.01270745]
+
+        Iteration: 12
+Error: 0.005203146325989394
+Estimated Roots: [ 35.3131887   58.63117945 -39.93900129  -3.01219974]

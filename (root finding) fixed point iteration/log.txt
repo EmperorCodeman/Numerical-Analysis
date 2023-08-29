@@ -1,0 +1,137 @@
+        Problem #7
+
+1th iteration: Roots estimate is 2.449489742783178.      With a pseudo error of 1.4494897427831779
+2th iteration: Roots estimate is 1.8708286933869707.     With a pseudo error of 0.5786610493962072
+3th iteration: Roots estimate is 1.9639610121239315.     With a pseudo error of 0.09313231873696082
+4th iteration: Roots estimate is 1.9436506316151.        With a pseudo error of 0.020310380508831383
+5th iteration: Roots estimate is 1.9478494929174643.     With a pseudo error of 0.004198861302364243
+6th iteration: Roots estimate is 1.9469714107861482.     With a pseudo error of 0.0008780821313161269
+7th iteration: Roots estimate is 1.947154601705983.      With a pseudo error of 0.00018319091983487468
+8th iteration: Roots estimate is 1.9471163642479947.     With a pseudo error of 3.8237457988365975e-05
+9th iteration: Roots estimate is 1.9471243447269682.     With a pseudo error of 7.980478973435012e-06
+10th iteration: Roots estimate is 1.9471226790977862.    With a pseudo error of 1.66562918191282e-06
+11th iteration: Roots estimate is 1.9471230267345663.    With a pseudo error of 3.476367800292479e-07
+12th iteration: Roots estimate is 1.9471229541785338.    With a pseudo error of 7.255603251543619e-08
+13th iteration: Roots estimate is 1.947122969321859.     With a pseudo error of 1.5143325260424945e-08
+14th iteration: Roots estimate is 1.947122966161263.     With a pseudo error of 3.1605960071345862e-09
+The method was successful
+        Problem #7 Approximate Root: 1.9471229668209178
+
+
+        Problem #15 Root One
+
+1th iteration: Roots estimate is 2.6905658417935308.     With a pseudo error of 0.30943415820646925
+2th iteration: Roots estimate is 2.3802559140755797.     With a pseudo error of 0.3103099277179511
+3th iteration: Roots estimate is 2.173123718485078.      With a pseudo error of 0.20713219559050167
+4th iteration: Roots estimate is 2.062634156029878.      With a pseudo error of 0.11048956245520003
+5th iteration: Roots estimate is 2.0102509444515517.     With a pseudo error of 0.05238321157832626
+6th iteration: Roots estimate is 1.986802931073128.      With a pseudo error of 0.023448013378423616
+7th iteration: Roots estimate is 1.976579644605284.      With a pseudo error of 0.010223286467844206
+8th iteration: Roots estimate is 1.9721737998341171.     With a pseudo error of 0.004405844771166789
+9th iteration: Roots estimate is 1.9702845890625251.     With a pseudo error of 0.001889210771591987
+10th iteration: Roots estimate is 1.9694762544201563.    With a pseudo error of 0.0008083346423688464
+11th iteration: Roots estimate is 1.9691307137893945.    With a pseudo error of 0.0003455406307617537
+12th iteration: Roots estimate is 1.968983063344363.     With a pseudo error of 0.0001476504450315108
+13th iteration: Roots estimate is 1.9689199826067902.    With a pseudo error of 6.308073757277377e-05
+14th iteration: Roots estimate is 1.96889303455939.      With a pseudo error of 2.6948047400221498e-05
+15th iteration: Roots estimate is 1.9688815227284981.    With a pseudo error of 1.1511830891874908e-05
+16th iteration: Roots estimate is 1.9688766050995365.    With a pseudo error of 4.917628961598197e-06
+17th iteration: Roots estimate is 1.9688745043965081.    With a pseudo error of 2.1007030284181383e-06
+18th iteration: Roots estimate is 1.968873607024502.     With a pseudo error of 8.973720060367896e-07
+19th iteration: Roots estimate is 1.9688732236882205.    With a pseudo error of 3.8333628160636124e-07
+20th iteration: Roots estimate is 1.9688730599360207.    With a pseudo error of 1.6375219979991584e-07
+21th iteration: Roots estimate is 1.9688729899849642.    With a pseudo error of 6.995105650275946e-08
+22th iteration: Roots estimate is 1.9688729601035342.    With a pseudo error of 2.988142999704735e-08
+23th iteration: Roots estimate is 1.9688729473388973.    With a pseudo error of 1.2764636903028759e-08
+24th iteration: Roots estimate is 1.968872941886148.     With a pseudo error of 5.452749363143994e-09
+25th iteration: Roots estimate is 1.968872939556863.     With a pseudo error of 2.329284987112601e-09
+The method was successful
+        Problem #15 Root One Approximate Root: 1.9688729385618478
+
+
+        Problem #15 Root Two
+
+1th iteration: Roots estimate is -2.6905658417935308.    With a pseudo error of 5.69056584179353
+2th iteration: Roots estimate is -2.3802559140755797.    With a pseudo error of 0.3103099277179511
+3th iteration: Roots estimate is -2.173123718485078.     With a pseudo error of 0.20713219559050167
+4th iteration: Roots estimate is -2.062634156029878.     With a pseudo error of 0.11048956245520003
+5th iteration: Roots estimate is -2.0102509444515517.    With a pseudo error of 0.05238321157832626
+6th iteration: Roots estimate is -1.986802931073128.     With a pseudo error of 0.023448013378423616
+7th iteration: Roots estimate is -1.976579644605284.     With a pseudo error of 0.010223286467844206
+8th iteration: Roots estimate is -1.9721737998341171.    With a pseudo error of 0.004405844771166789
+9th iteration: Roots estimate is -1.9702845890625251.    With a pseudo error of 0.001889210771591987
+10th iteration: Roots estimate is -1.9694762544201563.   With a pseudo error of 0.0008083346423688464
+11th iteration: Roots estimate is -1.9691307137893945.   With a pseudo error of 0.0003455406307617537
+12th iteration: Roots estimate is -1.968983063344363.    With a pseudo error of 0.0001476504450315108
+13th iteration: Roots estimate is -1.9689199826067902.   With a pseudo error of 6.308073757277377e-05
+14th iteration: Roots estimate is -1.96889303455939.     With a pseudo error of 2.6948047400221498e-05
+15th iteration: Roots estimate is -1.9688815227284981.   With a pseudo error of 1.1511830891874908e-05
+16th iteration: Roots estimate is -1.9688766050995365.   With a pseudo error of 4.917628961598197e-06
+17th iteration: Roots estimate is -1.9688745043965081.   With a pseudo error of 2.1007030284181383e-06
+18th iteration: Roots estimate is -1.968873607024502.    With a pseudo error of 8.973720060367896e-07
+19th iteration: Roots estimate is -1.9688732236882205.   With a pseudo error of 3.8333628160636124e-07
+20th iteration: Roots estimate is -1.9688730599360207.   With a pseudo error of 1.6375219979991584e-07
+21th iteration: Roots estimate is -1.9688729899849642.   With a pseudo error of 6.995105650275946e-08
+22th iteration: Roots estimate is -1.9688729601035342.   With a pseudo error of 2.988142999704735e-08
+23th iteration: Roots estimate is -1.9688729473388973.   With a pseudo error of 1.2764636903028759e-08
+24th iteration: Roots estimate is -1.968872941886148.    With a pseudo error of 5.452749363143994e-09
+25th iteration: Roots estimate is -1.968872939556863.    With a pseudo error of 2.329284987112601e-09
+The method was successful
+        Problem #15 Root Two Approximate Root: -1.9688729385618478
+
+
+        Problem #15 Root Three
+
+1th iteration: Roots estimate is -3.1442252096911822.    With a pseudo error of 1.8557747903088178
+2th iteration: Roots estimate is -3.156291052245284.     With a pseudo error of 0.012065842554101813
+3th iteration: Roots estimate is -3.1601718306378666.    With a pseudo error of 0.0038807783925824957
+4th iteration: Roots estimate is -3.1613941398467382.    With a pseudo error of 0.0012223092088716747
+5th iteration: Roots estimate is -3.161776530457808.     With a pseudo error of 0.0003823906110698161
+6th iteration: Roots estimate is -3.161895903871204.     With a pseudo error of 0.0001193734133959623
+7th iteration: Roots estimate is -3.161933144610644.     With a pseudo error of 3.724073943978112e-05
+8th iteration: Roots estimate is -3.1619447601272257.    With a pseudo error of 1.1615516581908736e-05
+9th iteration: Roots estimate is -3.161948382811987.     With a pseudo error of 3.6226847615061786e-06
+10th iteration: Roots estimate is -3.161949512643693.    With a pseudo error of 1.1298317059704743e-06
+11th iteration: Roots estimate is -3.1619498650098796.   With a pseudo error of 3.523661864512917e-07
+12th iteration: Roots estimate is -3.1619499749038438.   With a pseudo error of 1.098939641508423e-07
+13th iteration: Roots estimate is -3.1619500091769273.   With a pseudo error of 3.4273083482361244e-08
+14th iteration: Roots estimate is -3.1619500198658135.   With a pseudo error of 1.0688886220577842e-08
+15th iteration: Roots estimate is -3.1619500231993998.   With a pseudo error of 3.3335862958949747e-09
+16th iteration: Roots estimate is -3.161950024239059.    With a pseudo error of 1.039659025536821e-09
+The method was successful
+        Problem #15 Root Three Approximate Root: -3.1619500245633008
+
+
+        Problem #15 Root Four
+
+1th iteration: Roots estimate is 666.6647920697457.      With a pseudo error of 333.33520793025434
+2th iteration: Roots estimate is 444.4392056737441.      With a pseudo error of 222.22558639600157
+3th iteration: Roots estimate is 296.2935238412874.      With a pseudo error of 148.14568183245666
+4th iteration: Roots estimate is 197.5227850160784.      With a pseudo error of 98.77073882520904
+5th iteration: Roots estimate is 131.69741625729733.     With a pseudo error of 65.82536875878105
+6th iteration: Roots estimate is 87.77375052083775.      With a pseudo error of 43.92366573645958
+7th iteration: Roots estimate is 58.47854673450167.      With a pseudo error of 29.29520378633608
+8th iteration: Roots estimate is 39.00572884596447.      With a pseudo error of 19.4728178885372
+9th iteration: Roots estimate is 25.981504803213756.     With a pseudo error of 13.024224042750713
+10th iteration: Roots estimate is 17.23621063547707.     With a pseudo error of 8.745294167736684
+11th iteration: Roots estimate is 11.499033206601254.    With a pseudo error of 5.7371774288758175
+12th iteration: Roots estimate is 7.526167437788737.     With a pseudo error of 3.9728657688125173
+13th iteration: Roots estimate is 4.874842766177635.     With a pseudo error of 2.6513246716111016
+14th iteration: Roots estimate is 3.139300041983694.     With a pseudo error of 1.7355427241939414
+15th iteration: Roots estimate is 3.154671724008001.     With a pseudo error of 0.015371682024307276
+16th iteration: Roots estimate is 3.159658087054141.     With a pseudo error of 0.004986363046139974
+17th iteration: Roots estimate is 3.161233048379046.     With a pseudo error of 0.0015749613249047556
+18th iteration: Roots estimate is 3.1617262051342387.    With a pseudo error of 0.0004931567551929028
+19th iteration: Roots estimate is 3.161880200414881.     With a pseudo error of 0.00015399528064241608
+20th iteration: Roots estimate is 3.1619282463029497.    With a pseudo error of 4.804588806850418e-05
+21th iteration: Roots estimate is 3.161943232393677.     With a pseudo error of 1.4986090727475698e-05
+22th iteration: Roots estimate is 3.161947906343915.     With a pseudo error of 4.673950237954472e-06
+23th iteration: Roots estimate is 3.161949364044928.     With a pseudo error of 1.4577010127858614e-06
+24th iteration: Roots estimate is 3.1619498186657102.    With a pseudo error of 4.546207823530324e-07
+25th iteration: Roots estimate is 3.161949960450294.     With a pseudo error of 1.417845836293452e-07
+26th iteration: Roots estimate is 3.1619500046692406.    With a pseudo error of 4.421894672645976e-08
+27th iteration: Roots estimate is 3.1619500184599834.    With a pseudo error of 1.3790742769970166e-08
+28th iteration: Roots estimate is 3.1619500227609576.    With a pseudo error of 4.3009742434207965e-09
+29th iteration: Roots estimate is 3.16195002410232.      With a pseudo error of 1.3413625765679171e-09
+The method was successful
+        Problem #15 Root Four Approximate Root: 3.1619500245206558
